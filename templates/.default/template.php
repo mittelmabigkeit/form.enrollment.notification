@@ -104,14 +104,3 @@
         </div>
     </div>
 </div>
-
-
-<!--<script>-->
-<!--    $(document).ready(function() {-->
-<!--        $("#enrollment-notification-form").submit(-->
-<!--            function(){-->
-<!--                sendAjaxForm("enrollment-notification-form_content", "enrollment-notification-form", "/local/components/amigolab/form.enrollment.notification/templates/.default/ajax.php");-->
-<!--                return false;-->
-<!--            });-->
-<!--    });-->
-<!--</script>-->
