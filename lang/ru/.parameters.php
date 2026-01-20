@@ -1,0 +1,8 @@
+<?if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true) die();
+
+$MESS["AMIGOLAB_FORM_PROP_SETTINGS"] = "Выбор инфоблока";
+$MESS["AMIGOLAB_FORM_PROP_IBLOCK_TYPE"] = "Тип инфоблока";
+$MESS["AMIGOLAB_FORM_PROP_IBLOCK_ID"] = "Инфоблок";
+$MESS["AMIGOLAB_FORM_PROP_SETTINGS_DOP"] = "Настройки";
+$MESS["AMIGOLAB_FORM_PROP_PRODUCT_ID"] = "ID товара";
+$MESS["AMIGOLAB_FORM_PROP_PRODUCT_NAME"] = "Название товара";
