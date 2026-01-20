@@ -1,0 +1,86 @@
+.termo__item-inputs-error {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 110%;
+    color: #e33046;
+    margin-bottom: 28px;
+    margin-top: 8px;
+}
+
+@media (min-width: 344px) {
+    .popup-enrollment-notification {
+        width: 90%;
+    }
+    .grid-cols-\[140px_minmax\(0\,1fr\)\] {
+        grid-template-columns: 100% minmax(0, 1fr);
+        padding: 5% 5% 5% 5%;
+    }
+    .mb-0 {
+        margin-bottom: 50%;
+    }
+    .text-enrollment-notification {
+        font-size: 32px;
+    }
+    .pt-1-enrollment-notification {
+        padding-top: 1rem;
+    }
+    .checkbox-enrollment-notification {
+        margin-top: -0.5rem;
+    }
+    .print-input {
+        padding-top: 5%;
+    }
+    .btn-enrollment-notification {
+        margin-top: 2rem;
+        width: 100%;
+    }
+}
+@media (min-width: 768px) {
+    .grid-cols-\[140px_minmax\(0\,1fr\)\] {
+        padding: 0% 0% 0% 0%;
+    }
+    .mb-0 {
+        margin-bottom: auto;
+    }
+}
+@media (min-width: 1024px) {
+    .popup-enrollment-notification {
+        width: 50%;
+    }
+    .mb-0 {
+        margin-bottom: auto;
+    }
+    .text-enrollment-notification {
+        font-size: 32px;
+    }
+    .pt-1-enrollment-notification {
+        padding-top: 1rem;
+    }
+    .checkbox-enrollment-notification {
+        margin-top: -0.5rem;
+    }
+    .btn-enrollment-notification {
+        margin-top: 2rem;
+        width: 32%;
+    }
+}
+@media (min-width: 1400px) {
+    .popup-enrollment-notification {
+        width: 35%;
+    }
+}
+@media (min-width: 1800px) {
+    .popup-enrollment-notification {
+        width: 28%;
+    }
+}
+@media (min-width: 2200px) {
+    .popup-enrollment-notification {
+        width: 22%;
+    }
+}
+@media (min-width: 2560px) {
+    .popup-enrollment-notification {
+        width: 20%;
+    }
+}
